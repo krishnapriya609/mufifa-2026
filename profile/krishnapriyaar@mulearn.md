@@ -118,6 +118,7 @@ I connect with people through **LinkedIn**, college events, hackathons, workshop
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
-    src="https://discord.com/channels/771670169691881483/789476711867088967/1521355838743384074"
+    src="https://mulearn.org/embed/rank/krishnapriyaar@mulearn"
     width="400px">
 </img>
+   
