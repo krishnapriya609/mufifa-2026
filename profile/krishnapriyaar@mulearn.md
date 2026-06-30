@@ -1,4 +1,4 @@
-Krishnapriya A R (Your Role / What You Do)
+### Krishnapriya A R (Computer Science student | Full stack developer)
 Squad Domain: Coder | FIFA Nation: Argentina
 
 ### About Me
@@ -6,16 +6,20 @@ Squad Domain: Coder | FIFA Nation: Argentina
 Computer Science student with a growing passion for web development and software engineering. I enjoy building modern, user-friendly web applications using technologies like HTML, CSS, JavaScript, React, Next.js, Python, and Flask.
 I joined μFIFA because it combines teamwork, strategy, and competition with a strong tech community. As someone who is still building my skills, I'm excited to learn from others, collaborate on challenges, and push myself beyond my comfort zone. Representing Argentina, I hope to bring the same determination, resilience, and winning mentality that the team is known for. On the pitch, I'm here to compete with passion, grow through every match, and prove that dedication and continuous learning can turn a beginner into a strong and reliable teammate.
 
-⚽ FIFA World Cup Corner
+### ⚽ FIFA World Cup Corner
 
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
+I am a proud Argentina supporter and have been following the team for years. My all-time favourite player is Lionel Messi because of his incredible skill, humility, and dedication to the game. 
 
-My Nation & Why:
+My favourite World Cup memory is watching Argentina win the 2022 FIFA World Cup, especially seeing Messi lift the trophy after an unforgettable final. For the 2026 FIFA World Cup I am supporting Argentina again. I am most excited to watch Argentina's matches and hope to see them lift the World Cup once again.
+
+
+
+### My Nation & Why:
 
 I proudly represent Argentina in μFIFA. I chose Argentina because of my admiration for its rich football history, passionate style of play, and the legendary players who have worn the national jersey. My biggest inspiration is Lionel Messi, whose vision, humility, dedication, and incredible achievements made me fall in love with both the player and the team. Watching Argentina lift the FIFA World Cup in 2022 strengthened my loyalty even more. For me, supporting Argentina isn't just about winning trophies—it's about believing in resilience, teamwork, and never giving up. Representing Argentina in μFIFA is my way of carrying that spirit onto the virtual pitch.
 
 
-Supporting Team in the Real World Cup 2026:
+### Supporting Team in the Real World Cup 2026:
 
 I am supporting Argentina in the FIFA World Cup 2026.
 Yes, it's the same team I represent in μFIFA. 
@@ -30,7 +34,7 @@ What inspires me the most is their hard work, humility, and determination. Even 
 I think Kylian Mbappé is the best player in the world right now. He is incredibly fast, has excellent finishing, and performs well in big matches. His confidence, consistency, and ability to change the game make him one of the most exciting footballers to watch.
 
 
-Past World Cup Memories:
+### Past World Cup Memories:
 
 My most memorable FIFA World Cup moment was the 2022 World Cup Final  when Argentina beat France and won the trophy. It was an exciting match, and seeing Lionel Messi lift the World Cup was unforgettable. 
 
@@ -38,7 +42,7 @@ I watched the match at home with my family, and we celebrated together after Arg
 
 
 
- 2026 Predictions:
+ ### 2026 Predictions:
 
 * World Cup Winner:** Argentina. I believe they have a strong team and the experience to compete for another title.
 
@@ -49,19 +53,19 @@ I watched the match at home with my family, and we celebrated together after Arg
 * Match I'm Most Looking Forward To:** Argentina vs. Portugal. It would be an exciting match between two top football nations with world-class players.
 
 
- μFIFA World Cup 2026 - Tournament Goals:
+ ### μFIFA World Cup 2026 - Tournament Goals:
 
 - By the end of the μFIFA World Cup 2026, I want to improve my skills, learn from other participants, and enjoy the             competition. I hope to become a better team player, build new friendships, and gain more confidence through the tournament.   Most importantly, I want to represent Argentina with pride and give my best in every match.
 
 - I hope to learn new strategies, improve my teamwork and communication, and become more confident while competing. I also      want to contribute by supporting my teammates, playing fairly, and creating a positive experience for everyone in the         tournament.
 ---
 
-🏅 Portfolio Highlights
+### 🏅 Portfolio Highlights
 
 I have a portfolio that showcases my web development projects and technical skills. It includes projects built using HTML, CSS, JavaScript, React, Next.js, Python, and Flask. Through these projects, I have gained hands-on experience in building responsive websites, creating user-friendly interfaces, and developing full-stack web applications. I continue to update my portfolio as I learn new technologies and complete more projects.
 
 
- History of Open Source and Collaborative Contributions:
+ ### History of Open Source and Collaborative Contributions:
 
 - I have contributed through my own GitHub repositories by building and publishing web development projects. My work includes   React, Next.js, Python, and Flask applications such as a YouTube clone, a blog application, a budget tracker, and a chatbot   project. These projects helped me improve my coding, problem-solving, and collaboration skills. I continue to contribute by   updating my projects, learning new technologies, and participating in community-driven initiatives whenever possible.
 
@@ -72,7 +76,7 @@ I have a portfolio that showcases my web development projects and technical skil
 
 - 
 
- Domain Profiles:
+ ### Domain Profiles:
  
  Coder :
  Github   : https://github.com/krishnapriya609
@@ -90,28 +94,24 @@ I use a variety of tools in my daily workflow to learn, build, and manage projec
 - This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
 - *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
 
- Education and Proof of Work:
+### Education and Proof of Work:
 
 Btech Computer Science and Engineering at St Joseph's College of Engineering and Technology, Palai
 Github   :  https://github.com/krishnapriya609
 linkedin : https://www.linkedin.com/in/krishnapriyaar609/
 
-#### History of Leadership:
 
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
 
 #### Networking:
 
-- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
-- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
+I connect with people through **LinkedIn**, college events, hackathons, workshops, and technical communities like **μLearn**. These experiences have allowed me to collaborate with students from different colleges and backgrounds, exchange ideas, and work together on projects and challenges. During μFIFA, I hope to connect with developers, designers, and tech enthusiasts, learn from their experiences, and collaborate on innovative projects that help us grow together.
+
 
 #### Career Plan:
+ **Immediate :** I am focused on improving my web development and programming skills by building more real-world projects, learning new technologies, and gaining practical experience through internships, hackathons, and technical communities. I also plan to strengthen my problem-solving skills and expand my portfolio.
 
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
-- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
+**Long-term:** My goal is to become a skilled Software Engineer and Full-Stack Web Developer, building innovative and impactful applications. I want to continuously learn, contribute to open-source projects, and work on technologies that solve real-world problems. μFIFA will help me achieve this by connecting me with talented people, providing opportunities to collaborate, learn from experienced mentors, and grow through teamwork and competition.
 
----
 
 #### Profile Card:
 
