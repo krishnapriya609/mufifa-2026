@@ -44,18 +44,18 @@ I watched the match at home with my family, and we celebrated together after Arg
 
  ### 2026 Predictions:
 
-* World Cup Winner:** Argentina. I believe they have a strong team and the experience to compete for another title.
+* World Cup Winner: Argentina. I believe they have a strong team and the experience to compete for another title.
 
-* Dark Horse Team:** Portugal. They have a talented squad and could surprise many teams.
+* Dark Horse Team: Portugal. They have a talented squad and could surprise many teams.
 
-* Player Who Will Define the Tournament:** Kylian Mbappé. His pace, skill, and ability to score in big matches can make a huge difference.
+* Player Who Will Define the Tournament: Kylian Mbappé. His pace, skill, and ability to score in big matches can make a huge difference.
 
-* Match I'm Most Looking Forward To:** Argentina vs. Portugal. It would be an exciting match between two top football nations with world-class players.
+* Match I'm Most Looking Forward To: Argentina vs. Portugal. It would be an exciting match between two top football nations with world-class players.
 
 
  ### μFIFA World Cup 2026 - Tournament Goals:
 
-- By the end of the μFIFA World Cup 2026, I want to improve my skills, learn from other participants, and enjoy the             competition. I hope to become a better team player, build new friendships, and gain more confidence through the tournament.   Most importantly, I want to represent Argentina with pride and give my best in every match.
+- By the end of the μFIFA World Cup 2026, I want to improve my skills, learn from other participants, and enjoy the competition. I hope to become a better team player, build new friendships, and gain more confidence through the tournament.   Most importantly, I want to represent Argentina with pride and give my best in every match.
 
 - I hope to learn new strategies, improve my teamwork and communication, and become more confident while competing. I also      want to contribute by supporting my teammates, playing fairly, and creating a positive experience for everyone in the         tournament.
 ---
@@ -78,9 +78,9 @@ I have a portfolio that showcases my web development projects and technical skil
 
  ### Domain Profiles:
  
- Coder :
- Github   : https://github.com/krishnapriya609
- linkedin : https://www.linkedin.com/in/krishnapriyaar609/
+ Coder 
+ Github   :https://github.com/krishnapriya609
+ linkedin :https://www.linkedin.com/in/krishnapriyaar609/
   - 
 
 #### Tools, Workflows & Automations:
