@@ -19,7 +19,7 @@ The 2022 World Cup victory made my support even stronger.
 I am supporting Argentina in the FIFA World Cup 2026.
 Yes, it's the same team I represent in μFIFA. 
 
-#### All-Time Favourite Player:
+### All-Time Favourite Player:
 ### Lionel Messi
 Exceptional vision, creativity, and leadership.
 His journey inspires me to work hard and stay humble.
@@ -65,6 +65,7 @@ Enjoy learning from the developer community.
  ### Domain Profiles:
  
  💻 Coder:    :https://github.com/krishnapriya609
+ 
  📋 Strategist:https://www.linkedin.com/in/krishnapriyaar609/
    
 
@@ -89,6 +90,7 @@ Planning to publish more full-stack projects during μFIFA
 
 Btech Computer Science and Engineering at St Joseph's College of Engineering and Technology, Palai
 Github   :  https://github.com/krishnapriya609
+
 linkedin : https://www.linkedin.com/in/krishnapriyaar609/
 
 #### Networking:
