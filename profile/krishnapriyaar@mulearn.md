@@ -89,6 +89,7 @@ Planning to publish more full-stack projects during μFIFA
 ### Education and Proof of Work:
 
 Btech Computer Science and Engineering at St Joseph's College of Engineering and Technology, Palai
+
 Github   :  https://github.com/krishnapriya609
 
 linkedin : https://www.linkedin.com/in/krishnapriyaar609/
