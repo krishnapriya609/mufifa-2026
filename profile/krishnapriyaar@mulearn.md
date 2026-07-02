@@ -1,4 +1,4 @@
-## Krishnapriya A R (Computer Science student | Full stack developer)
+## Krishnapriya A R (Computer Science student | Web developer)
 ### Squad Domain: Coder | FIFA Nation: Argentina
 
 ### About Me
