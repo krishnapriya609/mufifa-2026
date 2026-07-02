@@ -71,13 +71,21 @@ Enjoy learning from the developer community.
 
 #### Tools, Workflows & Automations:
 *Visual Studio Code
+
 *Git & GitHub
+
 *React
+
 *Next.js
+
 *Python
+
 *Flask
+
 *ChatGPT
+
 *Chrome Developer Tools
+
 *PowerBI
 
 #### Public Portfolio & Recognition:
