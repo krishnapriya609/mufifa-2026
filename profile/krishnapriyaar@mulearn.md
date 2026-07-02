@@ -89,10 +89,14 @@ Enjoy learning from the developer community.
 *PowerBI
 
 #### Public Portfolio & Recognition:
-React YouTube Clone
-Next.js Blog Application
-Python Flask Chatbot
-Planning to publish more full-stack projects during μFIFA
+
+*React YouTube Clone
+
+*Next.js Blog Application
+
+*Python Flask Chatbot
+
+*Planning to publish more full-stack projects during μFIFA
 
 ### Education and Proof of Work:
 
